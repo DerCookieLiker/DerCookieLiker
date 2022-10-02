@@ -1,6 +1,6 @@
 # Gabriel W. Strobl
 
- * Co-Owner of [WebXIO](https://github.com/webxio) -> currently working on http://www.webxio.at/
+ * Co-Owner of [WebXIO](https://github.com/webxio) -> currently working on https://webxio.at/
  * Web Developer of [A2PD](https://github.com/a2pd)
  
 ## My work:
